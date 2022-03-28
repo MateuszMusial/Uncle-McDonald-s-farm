@@ -36,7 +36,7 @@ int main() {
         cin.clear();
         cin.ignore(100,'\n');                                           // checking if user gave integer number
 
-        cout << "Please enter the length of your fence. (The value shoud be greater than or equal to 3)." << endl;
+        cout << "Please enter the length of your fence. (The value should be greater than or equal to 3)." << endl;
 
         cin >> length;
     }
